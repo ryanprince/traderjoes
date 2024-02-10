@@ -6,3 +6,4 @@
 *.dyn_hi
 Main
 site/
+dist-newstyle/
